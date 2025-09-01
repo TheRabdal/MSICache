@@ -5,5 +5,5 @@ AKTIVASI MICROSOFT WINDOWS dan OFFICE :
 
 AKTIFASI MICROSOFT OFFICE 2021 :
 > Buka CMD sebagai Run as Administrator lalu jalankan kode ini :
-- CD C:\Program Files\Microsoft Office\Office16 atau yang sesuai
+- CD C:\Program Files\Microsoft Office\Office16 (atau yang sesuai)
 - cscript ospp.vbs /act
